@@ -22,9 +22,9 @@ Descriptors:
 
 Each script processes molecular structures provided in SMILES format, extracts the specified representation, and automatically generates a merged output table that includes:
 
-The computed molecular representation
+- The computed molecular representation
 
-The associated experimental parameters from the input dataset (e.g., biological activity)
+- The associated experimental parameters from the input dataset
 
 This streamlined workflow ensures that both molecular features and experimental data are ready for downstream analysis or machine learning.
 
