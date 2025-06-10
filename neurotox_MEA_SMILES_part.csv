@@ -1,0 +1,17 @@
+id,SMILES,Concentration tested (uM),in vitro model,Cell differentiation,Density of cells used for plating [per well],Drug incubation time before measurement [h],Recording time (e.g. MEA recording) [h],Average number of active electrodes per well at the dime of the assay,Mean Spike Rate (mean firing rate) [% of control]
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,0.3,5,1,5000000,0.33,0.17,13.3,99.16
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,1,5,1,5000000,0.33,0.17,13.3,98.37
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,3,5,1,5000000,0.33,0.17,13.3,94.22
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,10,5,1,5000000,0.33,0.17,13.3,59.57
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,30,5,1,5000000,0.33,0.17,13.3,34.95
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,100,5,1,5000000,0.33,0.17,13.3,37.5
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,300,5,1,5000000,0.33,0.17,13.3,17.41
+Gamma-Aminobutyric Acid,C(CC(=O)O)CN,1000,5,1,5000000,0.33,0.17,13.3,11.89
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,0.3,5,1,5000000,0.33,0.17,13.3,103.18
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,1,5,1,5000000,0.33,0.17,13.3,114.2
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,3,5,1,5000000,0.33,0.17,13.3,84.34
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,10,5,1,5000000,0.33,0.17,13.3,66.65
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,30,5,1,5000000,0.33,0.17,13.3,41.74
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,100,5,1,5000000,0.33,0.17,13.3,3.33
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,300,5,1,5000000,0.33,0.17,13.3,5.79
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN,1000,5,1,5000000,0.33,0.17,13.3,1.6
