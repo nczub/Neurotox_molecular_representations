@@ -1,4 +1,5 @@
 **Molecular Representations Generator**
+
 This repository contains four Python scripts designed to generate six types of molecular representations from SMILES strings. The generated representations can be used for cheminformatics, QSAR modeling, or other machine learning tasks in computational chemistry.
 
 Molecular Representations
