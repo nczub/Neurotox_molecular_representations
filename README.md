@@ -20,6 +20,7 @@ Descriptors:
 - Selected 13 RDKit descriptors (a curated subset of common physicochemical properties)
 
 **Functionality**
+
 Each script processes molecular structures provided in SMILES format, extracts the specified representation, and automatically generates a merged output table that includes:
 
 The computed molecular representation
@@ -29,7 +30,9 @@ The associated experimental parameters from the input dataset (e.g., biological 
 This streamlined workflow ensures that both molecular features and experimental data are ready for downstream analysis or machine learning.
 
 **Input**
+
 The input is a CSV file containing at least one column with SMILES strings and additional columns with experimental data.
 
 **Output**
+
 Each script saves a cleaned and processed dataset, ready for further modeling or statistical analysis.
